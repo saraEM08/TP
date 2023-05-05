@@ -48,17 +48,6 @@ body {
 
 
 
-.header__nav {
-  display: flex;
-  align-items: center;
-}
-
-
-
-.header__nav-list {
-  display: flex;
-  list-style: none;
-}
 
 
 
