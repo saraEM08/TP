@@ -25,3 +25,9 @@ main {
   height: 100vh;
   padding: 0px 50px;
 }
+
+footer {
+  background-color: bisque;
+  height: 10vh;
+  padding: 0px 50px;
+}
